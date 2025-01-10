@@ -1,0 +1,11 @@
+/Users/GabrielGallo/Códigos/c#-basic/Anagram Checker  /Anagram-Checker/AnagramChecker/Anagram-Checker/bin/Debug/net8.0/Anagram-Checker
+/Users/GabrielGallo/Códigos/c#-basic/Anagram Checker  /Anagram-Checker/AnagramChecker/Anagram-Checker/bin/Debug/net8.0/Anagram-Checker.dll
+/Users/GabrielGallo/Códigos/c#-basic/Anagram Checker  /Anagram-Checker/AnagramChecker/Anagram-Checker/bin/Debug/net8.0/Anagram-Checker.pdb
+/Users/GabrielGallo/Códigos/c#-basic/Anagram Checker  /Anagram-Checker/AnagramChecker/Anagram-Checker/obj/Debug/net8.0/Anagram-Checker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GabrielGallo/Códigos/c#-basic/Anagram Checker  /Anagram-Checker/AnagramChecker/Anagram-Checker/obj/Debug/net8.0/Anagram-Checker.AssemblyInfoInputs.cache
+/Users/GabrielGallo/Códigos/c#-basic/Anagram Checker  /Anagram-Checker/AnagramChecker/Anagram-Checker/obj/Debug/net8.0/Anagram-Checker.AssemblyInfo.cs
+/Users/GabrielGallo/Códigos/c#-basic/Anagram Checker  /Anagram-Checker/AnagramChecker/Anagram-Checker/obj/Debug/net8.0/Anagram-Checker.csproj.CoreCompileInputs.cache
+/Users/GabrielGallo/Códigos/c#-basic/Anagram Checker  /Anagram-Checker/AnagramChecker/Anagram-Checker/obj/Debug/net8.0/Anagram-Checker.sourcelink.json
+/Users/GabrielGallo/Códigos/c#-basic/Anagram Checker  /Anagram-Checker/AnagramChecker/Anagram-Checker/obj/Debug/net8.0/Anagram-Checker.dll
+/Users/GabrielGallo/Códigos/c#-basic/Anagram Checker  /Anagram-Checker/AnagramChecker/Anagram-Checker/obj/Debug/net8.0/refint/Anagram-Checker.dll
+/Users/GabrielGallo/Códigos/c#-basic/Anagram Checker  /Anagram-Checker/AnagramChecker/Anagram-Checker/obj/Debug/net8.0/Anagram-Checker.pdb
